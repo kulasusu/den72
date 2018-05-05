@@ -1,1 +1,1 @@
-bash -c "cd D:/IOS/den72.appmobiles.ml; ./update.sh;"
+bash -c "cd den72.appmobiles.ml; ./update.sh;"
